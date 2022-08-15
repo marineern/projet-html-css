@@ -1,0 +1,43 @@
+body
+{
+    background-color: rgb(234,233,208);
+    border: 1px black dotted;
+    border-radius: 10px / 10px;
+}
+h2, em
+{
+    color: blue;
+}
+h1
+{
+    color: seagreen;
+    text-align: center;
+}
+h3
+{
+    color: orange;
+}
+p, ul
+{
+    color: dimgrey; /* ceci sont mes paragraphes en gris */
+}
+.liste1
+{
+    color: hotpink;
+}
+.liste2
+{
+    color: brown;
+}
+.liste3
+{
+    color: dimgrey;
+}
+.soustitre
+{
+    color: darkred;
+}
+p
+{
+    font-size: 6mm;
+}

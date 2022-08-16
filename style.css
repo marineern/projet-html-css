@@ -1,43 +1,22 @@
 body
 {
-    background-color: rgb(234,233,208);
+    background-color: rgb(219,237,236);
     border: 1px black dotted;
     border-radius: 10px / 10px;
-}
-h2, em
-{
-    color: blue;
+    font-size: 4mm;
+    font-family: 'Verdana', sans-serif;
 }
 h1
 {
-    color: seagreen;
+    color: rgb(34,163,157);
     text-align: center;
+    font-size: 10mm;
 }
-h3
+h2
 {
-    color: orange;
+    color: rgb(15,36,35);
 }
-p, ul
+img
 {
-    color: dimgrey; /* ceci sont mes paragraphes en gris */
-}
-.liste1
-{
-    color: hotpink;
-}
-.liste2
-{
-    color: brown;
-}
-.liste3
-{
-    color: dimgrey;
-}
-.soustitre
-{
-    color: darkred;
-}
-p
-{
-    font-size: 6mm;
+    float: right;
 }
